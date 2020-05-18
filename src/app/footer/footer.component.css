@@ -1,0 +1,10 @@
+.footer{
+  background-image: url("../../assets/background.png");
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
+.address{
+  font-size:70%;
+  margin:0px auto;
+  color:#000;
+}
